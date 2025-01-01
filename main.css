@@ -1,0 +1,24 @@
+i{
+    background-color: gold;
+    font-size: 50px;
+    color: white;
+  }
+  
+  .title{
+    text-align: center;
+  }
+  
+  p{
+    color: gray;
+    text-align: center;
+  }
+  
+  .service{
+    float: left;
+    width: 33.3333333333%;
+    text-align: center;
+    
+  }
+  .clearfix{
+    clear: both;
+  }
